@@ -6,4 +6,5 @@ printer-[0-9]*_[0-9]*.cfg
 *.bak
 *.bkp
 ina226_log_print.csv
+power.csv
 *.zip
